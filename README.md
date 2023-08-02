@@ -1,2 +1,2 @@
-# liquis-assets
+# Liquis Assets
 Logos, icons and other assets
